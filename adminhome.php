@@ -86,7 +86,7 @@ session_start();  ?>
       <li><a href="#plugins">plugins</a></li>
       <li><a href="#users">users</a></li>
       <li><a href="#tools">tools</a></li> -->
-      <li><a href="sendmsg.php">Send Message</a></li>
+      <li><a href="sendsmsapi2.php">Send Message</a></li>
     </ul>
 
   
